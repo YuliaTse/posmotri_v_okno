@@ -88,7 +88,7 @@ ol {
   outline-offset: 1px;
 }
 
-.search-form__label:hover:not(:has(.search-form__textfield)) {
+.search-form__label:hover {
   text-decoration: underline;
 }
 
